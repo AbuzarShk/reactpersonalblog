@@ -1,0 +1,27 @@
+.blog-post {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .post-meta {
+    color: #777;
+    font-size: 14px;
+  }
+  
+  .post-image {
+    margin: 20px 0;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  hr {
+    margin-top: 20px;
+    border: 0;
+    border-top: 1px solid #ddd;
+  }
+  
