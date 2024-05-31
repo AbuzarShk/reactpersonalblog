@@ -4,7 +4,7 @@ import './TopBar.css';
 function TopBar() {
   return (
     <div className="top-bar">
-      <div className="logo">My Blog</div>
+      <div className="logo">Abuzar Shaikh</div>
       <nav className="nav-links">
         <a href="#home">Home</a>
         <a href="#about">About</a>
